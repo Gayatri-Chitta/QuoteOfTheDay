@@ -69,5 +69,3 @@ quote-of-the-day/
 
 4. Open in your browser: `http://localhost:3000`
 
-
-
