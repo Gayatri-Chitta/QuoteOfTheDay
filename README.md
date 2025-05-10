@@ -16,22 +16,6 @@ A simple and elegant **React** web application that displays inspiring quotes to
 - **Styling:** CSS
 - **Data Source:** Local `quotes.json` file
 
-## 📂 Folder Structure
-
-```
-quote-of-the-day/
-├── public/
-│   └── index.html
-├── src/
-│   ├── components/
-│   │   ├── QuoteDisplay.jsx
-│   │   └── SearchBar.jsx
-│   ├── data/
-│   │   └── quotes.json
-│   ├── App.jsx
-│   └── index.js
-└── README.md
-```
 
 
 ## 🧑‍💻 How to Run Locally
