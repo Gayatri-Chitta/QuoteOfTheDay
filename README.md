@@ -18,7 +18,7 @@ A simple and elegant **React** web application that displays inspiring quotes to
 
 ## 📂 Folder Structure
 
-
+```
 quote-of-the-day/
 ├── public/
 │   └── index.html
@@ -31,7 +31,7 @@ quote-of-the-day/
 │   ├── App.jsx
 │   └── index.js
 └── README.md
-
+```
 
 
 ## 🧑‍💻 How to Run Locally
