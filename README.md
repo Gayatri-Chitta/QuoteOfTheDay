@@ -33,13 +33,6 @@ quote-of-the-day/
 └── README.md
 
 
-## 🖥️ Demo
-
-> [Optional: Add a GitHub Pages or Netlify link if deployed]
-
-## 📸 Screenshots
-
-> [Optional: Add images of your app interface here]
 
 ## 🧑‍💻 How to Run Locally
 
