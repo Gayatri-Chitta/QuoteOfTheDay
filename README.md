@@ -1,8 +1,4 @@
-Here's a clean and professional `README.md` file for your **Quote of the Day** project:
 
----
-
-```markdown
 # 📜 Quote of the Day
 
 A simple and elegant **React** web application that displays inspiring quotes to brighten your day! Users can view a new quote each day, get random quotes, or search for quotes by a specific author.
@@ -22,7 +18,6 @@ A simple and elegant **React** web application that displays inspiring quotes to
 
 ## 📂 Folder Structure
 
-```
 
 quote-of-the-day/
 ├── public/
@@ -37,7 +32,6 @@ quote-of-the-day/
 │   └── index.js
 └── README.md
 
-````
 
 ## 🖥️ Demo
 
@@ -53,7 +47,7 @@ quote-of-the-day/
    ```bash
    git clone https://github.com/yourusername/quote-of-the-day.git
    cd quote-of-the-day
-````
+
 
 2. Install dependencies
 
